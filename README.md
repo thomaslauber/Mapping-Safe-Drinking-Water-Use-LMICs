@@ -1,6 +1,19 @@
-# mapping-safe-drinking-water-use-LMICs
+# Mapping safe drinking water use in low- and middle-income countries
 
-## Summary
+Safe drinking water access is a human right, but data on safely managed drinking water services (SMDWS) is lacking for more than half of the global population. By combining existing household survey data, global Earth Observation datasets, and geospatial modelling, we estimate that only one in three people in low- and middle-income countries have access to SMDWS and identify fecal contamination as the primary limiting factor affecting almost half of the population of these regions. 
+The study has been well received in the community and won the International Geneva Award 2024 for its high-quality and policy-relevance.
+
+# Methods
+![graphical description of methods](readme_imgs/Fig1.png)
+*Fig. 1. Overview of data sources and data merging.*
+*(A) SMDWS use and subcomponent estimates in 27 low- and middle-income countries were calculated at subnational district levels using 64,723 household survey responses from MICS data. (B) The outcome variable for the main model is the proportion of a district population using SMDWS. Subcomponent outcome variables are the proportion of a district population using a drinking water source which is (i) free of fecal contamination, (ii) accessible on premises, (iii) available when needed and (iv) improved. (C) Visual representation of geospatial predictors (67), which were merged with the outcome variables at subnational district levels and included human (n = 5), climate (n = 7), hydrogeologic (n = 7), biogeographic (n = 14), and topographic (n = 6) indicators derived from globally available geospatial datasets.*
+
+# Results
+![graphical description of results](readme_imgs/Fig2.png)
+*Fig. 2. Mapped SMDWS use.*
+*Population percentage using SMDWS (above) and regions (below) where fecal contamination (red), lack of accessibility (green), and insufficiency (blue) of drinking water from a primary drinking water source are limiting the use of SMDWS. Both maps show the global administrative area level 1 in low- and middle-income countries.*
+
+# Reproducibility
 
 Here we explore environmental and anthropogenic covariates driving the spatial variation in safely managed drinking water services (SMDWS), and generate a global map of subnational (GADM version 3.6) estimates of SMDWs use across 135 low- and middle-income countries. Further, we determine the subcomponents limiting use of SMDWS around the world.
 
