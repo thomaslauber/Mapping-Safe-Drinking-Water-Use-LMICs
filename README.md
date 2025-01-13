@@ -4,12 +4,12 @@ Safe drinking water access is a human right, but data on safely managed drinking
 The study has been well received in the community and won the International Geneva Award 2024 for its high-quality and policy-relevance.
 
 # Methods
-![graphical description of methods](readme_imgs/Fig1.png)
+![graphical description of methods](readme_figs/Fig1.png)
 *Fig. 1. Overview of data sources and data merging.*
 *(A) SMDWS use and subcomponent estimates in 27 low- and middle-income countries were calculated at subnational district levels using 64,723 household survey responses from MICS data. (B) The outcome variable for the main model is the proportion of a district population using SMDWS. Subcomponent outcome variables are the proportion of a district population using a drinking water source which is (i) free of fecal contamination, (ii) accessible on premises, (iii) available when needed and (iv) improved. (C) Visual representation of geospatial predictors (67), which were merged with the outcome variables at subnational district levels and included human (n = 5), climate (n = 7), hydrogeologic (n = 7), biogeographic (n = 14), and topographic (n = 6) indicators derived from globally available geospatial datasets.*
 
 # Results
-![graphical description of results](readme_imgs/Fig2.png)
+![graphical description of results](readme_figs/Fig2.png)
 *Fig. 2. Mapped SMDWS use.*
 *Population percentage using SMDWS (above) and regions (below) where fecal contamination (red), lack of accessibility (green), and insufficiency (blue) of drinking water from a primary drinking water source are limiting the use of SMDWS. Both maps show the global administrative area level 1 in low- and middle-income countries.*
 
